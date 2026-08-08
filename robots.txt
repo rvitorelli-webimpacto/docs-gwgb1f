@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rj8ddx.staycool.info/sitemap.xml
